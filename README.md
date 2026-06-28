@@ -9,10 +9,11 @@ dotnet run
 
 ## Estructura del proyecto
 
-InventarioApp
+InventarioApp/
 -Program.cs # Punto de entrada
 -InventarioApp.csproj # Configuracion
 -.gitignore # Archivos ignorados por git
+-src/
 
 ## Autor
 Gabriel Guzman
