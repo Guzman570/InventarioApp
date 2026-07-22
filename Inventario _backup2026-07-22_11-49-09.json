@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nombre": "Arroz",
+    "precio": 0.60,
+    "cantidad": 1,
+    "categoria": "Alimentos",
+    "estado": "Activo",
+    "fechaRegistro": "2026-07-22T11:48:14.607175-06:00",
+    "valorTotal": 0.60
+  }
+]

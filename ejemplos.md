@@ -1,0 +1,1 @@
+tipoRetorno NombreMetodo()

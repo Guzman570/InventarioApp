@@ -1,0 +1,12 @@
+[
+  {
+    "id": 2,
+    "nombre": "Cafe",
+    "precio": 40,
+    "cantidad": 16,
+    "categoria": "Alimentos",
+    "estado": "Activo",
+    "fechaRegistro": "2026-07-22T11:49:09.2188161-06:00",
+    "valorTotal": 640
+  }
+]
